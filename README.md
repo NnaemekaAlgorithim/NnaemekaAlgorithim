@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NnaemekaAlgorithim
-- 👀 I’m interested in Embedded systems hardware and software
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on Embedded system software development
+- 👀 I’m interested in software development, specialised in backend
+- 🌱 I’m currently learning to build microservicies buy building personal projects
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me: nnaemekanwodo625@gmail.com
 
 <!---
