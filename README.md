@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NnaemekaAlgorithim
 - 👀 I’m interested in software development, specialised in backend
-- 🌱 I’m currently learning to build microservicies buy building personal projects
+- 🌱 I’m  currently working with Pashione.co as a backend developer
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me: nnaemekanwodo625@gmail.com
 
