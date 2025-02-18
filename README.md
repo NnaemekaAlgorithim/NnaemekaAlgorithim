@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NnaemekaAlgorithim
+- 👋 Hi, I’m Nnaemeka
 - 👀 I’m interested in software development, specialised in backend
 - 🌱 I’m  currently working with Pashione.co as a backend developer
 - 💞️ I’m looking to collaborate on software development
